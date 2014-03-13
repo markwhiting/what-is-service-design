@@ -125,12 +125,10 @@ header {
   text-align: center;
   background-color: rgba(255,255,204,0.4);
   position: relative;
-  top: -1em;
-  height: 100px;
-  padding:50px 0 20px 0;
-  margin: 0 -1em;
+  padding:1em 0 .5em 0 ;
+  margin: -1em -1em 2em -1em;
   font-family: 'chunkfiveroman';
-  font-size: 24px; 
+  font-size: 24px;
 }
 
 #pagehead {
@@ -150,11 +148,11 @@ iframe {
 	width: 600px;
 	height: 337px;
 	border: none;
-	margin: 1em 0;
+	margin: .5em 0 0em 0;
 }
 
 article {
-  margin:0;
+  margin:0 0 4em 0;
 }
 
 article h1 {
@@ -177,8 +175,16 @@ article li {
   color: #ddd;
   position: relative;
   width: 100%;
-  left: -2em;
-  padding: 1em 1em 1em 2em;
+  left: -1.5em;
+  padding: 1em 1em .3em 1.5em;
+  margin: 0 0 4em 0;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-left: rgba(0, 0, 0, 0.5) solid 2px;
 }
 
 #bookmark a{
@@ -188,7 +194,7 @@ article li {
 
 #bookmark h1{
   color: #fff;
-  
+
 }
 
 .profile {
@@ -219,6 +225,7 @@ footer {
   text-align: center;
   max-width: 600px;
   clear: both;
+  padding: 3em 0 1em 0;
 }
 /* ==========================================================================
    Helper classes
