@@ -2,6 +2,7 @@ What is Service Design?
 ======================
 
 This video, and all the files used to make it are protected under the [CC attribution, Noncommercial, share alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Which means we encourage you to make your own version, but we ask:
+
 1. That you atribute any content that you use to Yosef Shuman and Mark Whiting. 
 2. Do not use and of this content to make money
 3. Do not use a more restrictive lisence or copytight
