@@ -125,10 +125,17 @@ header {
   background-color: rgba(255,255,204,0.4);
   position: relative;
   top: -1em;
-  padding:10px 0;
-  margin: 0 0;
+  height: 100px;
+  padding:50px 0 0 0;
+  margin: 0 -1em;
   font-family: 'chunkfiveroman';
   font-size: 20px; 
+}
+
+#pagehead {
+	text-decoration: none;
+	color: black;
+	text-align: right;
 }
 
 #wrapper {
@@ -161,6 +168,20 @@ article p {
 article li {
   margin: 0;
   padding: 0;
+}
+
+#bookmark{
+  background-image:url('images/bookmark.png');
+  background-position: right;
+  color: #ddd;
+  position: relative;
+  width: 100%;
+  left: -2em;
+  padding: 1em 1em 1em 4em;
+}
+
+#bookmark a{
+  color: #fff;
 }
 
 .profile {
