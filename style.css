@@ -157,7 +157,7 @@ article {
 
 article h1 {
   margin: 0;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 article p {
@@ -165,7 +165,7 @@ article p {
 }
 
 article li {
-  margin: 0;
+  margin: 0 1em .5em 0;
   padding: 0;
 }
 
