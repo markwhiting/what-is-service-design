@@ -121,6 +121,14 @@ p, li{
   font-size: 18px;
 }
 
+ol {
+  font-weight:bolder;
+}
+
+ol li span {
+  font-weight: normal;
+}
+
 header {
   text-align: center;
   background:url(images/headerflag2.png) no-repeat center;
@@ -139,7 +147,7 @@ header {
 }
 
 #wrapper {
-  max-width: 600px;
+  width: 600px;
   margin: 0 auto;
   padding:0;
   color: #333;
@@ -148,7 +156,8 @@ header {
 iframe {
 	width: 600px;
 	height: 337px;
-	/*border: none;*/
+	border: rgba(0,0,0,0.28) solid 15px;
+  border-radius: 5px;
 	margin: .5em 0 0em 0;
 }
 
@@ -177,7 +186,7 @@ article li {
   position: relative;
   width: 100%;
   left: -1.5em;
-  padding: 1em 1em .3em 1.5em;
+  padding: 1.6em 1em 1em 1.5em;
   margin: 0 0 4em 0;
   -webkit-border-top-left-radius: 4px;
   -webkit-border-bottom-left-radius: 4px;
