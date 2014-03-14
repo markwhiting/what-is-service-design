@@ -153,8 +153,8 @@ header {
 }
 
 iframe {
-	width: 600px;
-	height: 337px;
+	width: 570px;
+	height: 321px;
 	border: rgba(0,0,0,0.28) solid 15px;
   border-radius: 5px;
 	margin: .5em 0 0em 0;
@@ -218,7 +218,7 @@ article li {
 }
 
 .profile {
-  width: 45%;
+  width: 46%;
   max-width: 300px;
   padding: 0;
 
@@ -258,7 +258,7 @@ footer2 {
   position: relative;
   background-color: rgba(0,0,0,0.4);
   padding:1em 0 .5em 0;
-  margin: -1em 0 2em 0;
+  margin: -1em 0 1.4em 0;
 }
 
 /* ==========================================================================
