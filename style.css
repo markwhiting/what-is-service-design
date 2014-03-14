@@ -253,6 +253,15 @@ footer {
   clear: both;
   padding: 3em 0 1em 0;
 }
+
+footer2 {
+  text-align: center;
+  position: relative;
+  background-color: rgba(0,0,0,0.4);
+  padding:1em 0 .5em 0;
+  margin: -1em 0 2em 0;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -424,6 +433,7 @@ footer {
 
     img {
         max-width: 100% !important;
+        border: 2px;
     }
 
     @page {
