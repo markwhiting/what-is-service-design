@@ -197,45 +197,28 @@ article li {
 
 }
 
-.left{
-  position: relative;
-  left:0;
-  margin: 1em .5em 0 1em;
-}
-.right{
-  position: relative;
-  right: 0;
-  margin: 1em 1em 0 .5em;
-}
-
 .profile {
   width: 45%;
-  max-width: 300px;
+  max-width: 284px;
+  min-height: 260px;
   padding: 0;
-
+  margin: .5em;
   background-color: rgba(0,0,0,0.28);
   border-radius: 5px;
   float: left;
   text-align: left;
-  color: #ddd;
 }
 
 .profile h1{
   text-align: center;
-  color: #fff;
-}
-
-.profile a{
-  color: #fff;
 }
 
 .profile img{
   display: block;
-  width: 230px;
-  height: 230px;
+  width: 100px;
+  height: 100px;
   margin: 1em auto;
   text-align: center;
-  border-radius: 4px;
 }
 
 footer {
