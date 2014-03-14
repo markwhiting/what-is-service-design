@@ -123,7 +123,8 @@ p, li{
 
 header {
   text-align: center;
-  background-color: rgba(255,255,204,0.4);
+  background:url(images/headerflag2.png) no-repeat center;
+  /*background-color: rgba(255,255,204,0.4);*/
   position: relative;
   padding:1em 0 .5em 0;
   margin: -1em 0 2em 0;
@@ -147,7 +148,7 @@ header {
 iframe {
 	width: 600px;
 	height: 337px;
-	border: none;
+	/*border: none;*/
 	margin: .5em 0 0em 0;
 }
 
