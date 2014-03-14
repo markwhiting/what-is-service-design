@@ -231,8 +231,8 @@ article li {
 
 .profile img{
   display: block;
-  width: 230px;
-  height: 230px;
+  width: 100px;
+  height: 100px;
   margin: 1em auto;
   text-align: center;
   border-radius: 4px;
