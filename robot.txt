@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Sitemap: what-is-service-design.com/sitemap.xml
