@@ -5,9 +5,9 @@ This video, and all the files used to make it are protected under the [CC attrib
 
 1. That you atribute any content that you use to Yosef Shuman and Mark Whiting. 
 2. Do not use and of this content to make money
-3. Do not use a more restrictive lisence or copytight
+3. Do not use a more restrictive licens or copyright
 
-We hope the communitly will work to make versions in other languages, and other improvements to what has already been done. Please let us know what you make so we can link to it here and on our other pages.
+We hope the community will work to make versions in other languages, and other improvements to what has already been done. Please let us know what you make so we can link to it here and on our other pages.
 
 ##How to participate
 1. Start by making a clone of our project folder. You'll probably want to make an account and download [GitHub](https://github.com/) software to do that.
