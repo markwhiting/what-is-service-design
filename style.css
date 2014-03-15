@@ -160,6 +160,30 @@ iframe {
 	margin: .5em 0 0em 0;
 }
 
+#share{
+  position: fixed;
+  bottom:1em;
+  right:1.5em;
+  text-align:center;
+  width: 25px;
+}
+
+#share img {
+  width: 25px;
+  padding: 5px;
+  display: inline;
+  opacity:0.6;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+#share img:hover {
+  width: 25px;
+  padding: 5px;
+  display: inline;
+  opacity:1;
+  filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
 article {
   margin:0 0 4em 0;
 }
@@ -248,17 +272,8 @@ article li {
 
 footer {
   text-align: center;
-  max-width: 600px;
   clear: both;
-  padding: 3em 0 1em 0;
-}
-
-footer2 {
-  text-align: center;
-  position: relative;
-  background-color: rgba(0,0,0,0.4);
-  padding:1em 0 .5em 0;
-  margin: -1em 0 1.4em 0;
+  padding: 4em 0 0 0;
 }
 
 /* ==========================================================================
