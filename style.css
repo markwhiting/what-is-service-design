@@ -119,14 +119,16 @@ body{
 
 p, li{
   font-size: 18px;
+  text-shadow: 0px 1px 1px #ebebeb;
 }
-
 ol {
   font-weight:bolder;
+  text-shadow: 0px 1px 1px #ebebeb;
 }
 
 ol li span {
   font-weight: normal;
+  text-shadow: 0px 1px 1px #ebebeb;
 }
 
 header {
@@ -137,6 +139,8 @@ header {
   margin: -1em 0 2em 0;
   font-family: 'chunkfiveroman';
   font-size: 24px;
+  text-shadow: 0px -1px 1px #ddd;
+
 }
 
 #pagehead {
@@ -186,16 +190,24 @@ iframe {
 
 article {
   margin:0 0 4em 0;
+  color: #444;
 }
 
 article h1 {
   margin: 0;
   font-size: 1.3em;
+  text-shadow: 0px 1px 1px #ebebeb;
 }
 
 article p {
   margin: 1em;
 }
+
+article a {
+  color: #000;
+  text-shadow: 0px 1px 1px #ebebeb;
+}
+
 
 article li {
   margin: 0 1em .5em 0;
@@ -218,16 +230,16 @@ article li {
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
   border-left: rgba(0, 0, 0, 0.5) solid 2px;
+  text-shadow: 0px -1px 1px #303030;
 }
 
-#bookmark a{
-  color: #fff;
-
+#bookmark li{
+  text-shadow: 0px -1px 1px #303030;
 }
 
-#bookmark h1{
+#bookmark a, #bookmark h1 {
   color: #fff;
-
+  text-shadow: 0px -1px 1px #303030;
 }
 
 .left{
@@ -251,15 +263,25 @@ article li {
   float: left;
   text-align: left;
   color: #ddd;
+  text-shadow: 0px -1px 1px #303030;
+
+}
+
+.profile p{
+  text-shadow: 0px -1px 1px #303030;
 }
 
 .profile h1{
   text-align: center;
   color: #fff;
+  text-shadow: 0px -1px 1px #303030;
+
 }
 
 .profile a{
   color: #fff;
+  text-shadow: 0px -1px 1px #303030;
+
 }
 
 .profile img{
