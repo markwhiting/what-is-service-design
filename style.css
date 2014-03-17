@@ -219,7 +219,7 @@ article li {
 }
 
 .nomargin{
-  margin:0;
+  margin:0 1em;
 }
 
 #bookmark{
