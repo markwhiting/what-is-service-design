@@ -218,6 +218,10 @@ article li {
   opacity:0.6;
 }
 
+.nomargin{
+  margin:0;
+}
+
 #bookmark{
   background-image:url('images/bookmark.png');
   background-position: right;
