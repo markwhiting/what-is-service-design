@@ -219,7 +219,8 @@ article li {
 }
 
 .nomargin{
-  margin:0 1em;
+  margin:0 1em 0 1em;
+  padding:0;
 }
 
 #bookmark{
