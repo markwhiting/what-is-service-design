@@ -157,7 +157,7 @@ header {
 }
 
 .framebox {
-	border: rgba(0,0,0,0.28) solid 15px;
+	border: rgba(0,0,0,0.0) solid 15px;
   border-radius: 5px;
   background-color:rgba(0,0,0,0.28);
 	margin: .5em 0 0em 0;
