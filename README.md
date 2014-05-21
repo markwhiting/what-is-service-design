@@ -17,7 +17,7 @@ We hope the community will work to make versions in other languages, and other i
 GitHub provides further help on how to use it [here](https://help.github.com/).
 
 ##Additional Info
-Everything used in the creation of this video (textures, sounds, characters, music, etc.) can be found in the folder 'After Effects Files'.
-To assist in the creation of narration tracks in other languages, we have provided a version of the video exactly like the original, but with the vocal track removed.
-For anyone interested in creating a new subtitles track, the entire video script is available as an .RTF file
-If you make a subtitles track ([instructions can be found here](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)), please email the completed caption file to [Hello@YosefShuman.com](mailto:Hello@YosefShuman.com)
+1. Everything used in the creation of this video (textures, sounds, characters, music, etc.) can be found in the folder 'After Effects Files'.
+2. To assist in the creation of narration tracks in other languages, we have provided a version of the video exactly like the original, but with the vocal track removed.
+3. For anyone interested in creating a new subtitles track, the entire video script is available as an .RTF file
+4. If you make a subtitles track ([instructions can be found here](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)), please email the completed caption file to [Hello@YosefShuman.com](mailto:Hello@YosefShuman.com)
