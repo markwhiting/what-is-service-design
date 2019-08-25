@@ -22,8 +22,8 @@ html {
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     line-height: 1.4;
-    text-align: justify;
-    hyphens: auto;
+    text-align: left;
+    hyphens: none;
 }
 
 @font-face {
